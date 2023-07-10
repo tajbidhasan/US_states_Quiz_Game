@@ -37,8 +37,8 @@
 <p>The U.S. state data used in this program is based on the <code>50_states.csv</code> file, which contains information about state names and coordinates.</p>
 <h2 align="center">Video Demo</h2>
 <p align="center">
-    <a href="https://youtu.be/KEGTp0fmi3g">
-        <img src="https://img.youtube.com/vi/KEGTp0fmi3g/0.jpg" alt="Video">
+    <a href="https://youtu.be/aehaFFeUBk4">
+        <img src="https://img.youtube.com/vi/aehaFFeUBk4/0.jpg" alt="Video">
     </a>
 </p>
 </body>
